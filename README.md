@@ -1,1 +1,1 @@
-MLOPs language detection model kk
+MLOPs language detection model
